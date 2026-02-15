@@ -56,8 +56,11 @@ Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
 
 ## 🏆 Achievements & Projects
 
-- 🥇 Active participant in DEV Community challenges [![DEV Challenge Badge](https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F280%2FWriting_Streak_Badges-05.png)](https://dev.to/liliana99)
-  
+<p align="center">
+  <img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F280%2FWriting_Streak_Badges-05.png" width="140" />
+</p>
+
+- 🥇 Active participant in DEV Community challenges 
 - 🎮 Game web platform: http://juegos.marialijideveloper.com/  
 - 🌐 Portfolio: https://marialijideveloper.com  
 - 🚀 Focused on high-performance Flutter and frontend experiences
