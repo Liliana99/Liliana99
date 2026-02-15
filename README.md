@@ -17,13 +17,13 @@ I am a **Senior Flutter Developer** specialized in building:
 
 Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
 
-## 📈 GitHub Activity Graph
-
-![Liliana's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Liliana99&theme=tokyo-night)
-
 ---
 
 ## 🧠 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-Expert-blue?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Frontend**
 - Flutter
@@ -44,12 +44,16 @@ Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
 - Clean Architecture
 
 ---
-
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liliana99&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liliana99&layout=compact&theme=tokyonight)
+
+
+## 📈 GitHub Activity Graph
+
+![Liliana's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Liliana99&theme=tokyo-night)
 
 ---
 
