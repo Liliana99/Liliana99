@@ -61,8 +61,8 @@ Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
 ## 🌐 Connect With Me
 
 - 💼 Portfolio: https://marialijideveloper.com  
-- 💼 LinkedIn: (pon tu link)  
-- 📧 Email: (opcional)
+- 💼 LinkedIn: https://www.linkedin.com/in/marialilianajimenezm-ia-apps-flutter/?trk=public-profile-join-page  
+- 📧 Email: liliana.flutter@gmail.com
 
 ---
 
