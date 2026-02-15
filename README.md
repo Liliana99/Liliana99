@@ -68,7 +68,8 @@ Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
 
 - 🥇 Active participant in DEV Community challenges 
 - 🎮 Game web platform: http://juegos.marialijideveloper.com/  
-- 🌐 Portfolio: https://marialijideveloper.com  
+<!--  🌐 Portfolio: https://marialijideveloper.com-->
+- 🚧 **Portfolio currently under reconstruction** — a new high-performance Flutter Web experience is in progress.
 - 🚀 Focused on high-performance Flutter and frontend experiences
 
 ## 🔭 What I'm Working On
