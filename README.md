@@ -46,10 +46,7 @@ Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
 ---
 
 ## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liliana99&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liliana99&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Metrics](https://raw.githubusercontent.com/Liliana99/Liliana99/main/github-metrics.svg)
 
 
 ## 📈 GitHub Activity Graph
