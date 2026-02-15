@@ -83,7 +83,8 @@ Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
 
 ## 🌐 Connect With Me
 
-- 💼 Portfolio: https://marialijideveloper.com  
+- 🚧 **Portfolio currently under reconstruction** — a new high-performance Flutter Web experience is in progress.
+<!-- 💼 Portfolio: https://marialijideveloper.com-->  
 - 💼 LinkedIn: https://www.linkedin.com/in/marialilianajimenezm-ia-apps-flutter/?trk=public-profile-join-page  
 - 📧 Email: liliana.flutter@gmail.com
 
