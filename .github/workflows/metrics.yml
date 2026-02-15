@@ -4,6 +4,10 @@ on:
     - cron: "0 6 * * *"   # cada día 06:00 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write   # ✅ permite commitear el SVG al repo
+  
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
