@@ -1,16 +1,69 @@
-## Hi there 👋
+# María Liliana Jiménez M — Frontend Flutter Developer
 
-<!--
-**Liliana99/Liliana99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer focused on **Flutter**, modern UI, and AI-powered products.
 
-Here are some ideas to get you started:
+> “Building fast, scalable and beautiful cross-platform experiences.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I am a **Senior Flutter Developer** specialized in building:
+
+- 📱 Cross-platform applications with Flutter  
+- 🎨 Modern and responsive UI  
+- ⚡ High-performance mobile and web apps  
+- 🤖 AI-enhanced user experiences  
+
+Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend**
+- Flutter
+- Dart
+- Responsive Design
+- Material 3
+- UI/UX implementation
+
+**AI & Integration**
+- OpenAI APIs
+- AI Agents integration
+- Intelligent UX flows
+
+**Tools**
+- Git & GitHub
+- Firebase
+- REST APIs
+- Clean Architecture
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liliana99&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liliana99&layout=compact&theme=tokyonight)
+
+---
+
+## 🔭 What I'm Working On
+
+- Advanced Flutter Web experiences  
+- AI-powered frontend features  
+- High-performance UI systems  
+- Portfolio & product experiments  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 Portfolio: https://marialijideveloper.com  
+- 💼 LinkedIn: (pon tu link)  
+- 📧 Email: (opcional)
+
+---
+
+⭐️ From [Liliana99](https://github.com/Liliana99)
