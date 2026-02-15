@@ -17,6 +17,10 @@ I am a **Senior Flutter Developer** specialized in building:
 
 Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
 
+## 📈 GitHub Activity Graph
+
+![Liliana's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Liliana99&theme=tokyo-night)
+
 ---
 
 ## 🧠 Tech Stack
