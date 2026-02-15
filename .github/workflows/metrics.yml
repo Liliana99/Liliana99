@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Liliana99
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community
           config_timezone: Europe/Madrid
 
           # Lenguajes (muy útil para frontend)
