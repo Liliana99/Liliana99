@@ -1,21 +1,20 @@
 # María Liliana Jiménez M — AI & Fullstack  Flutter Developer
 
-Frontend Engineer focused on **Flutter**, modern UI, and AI-powered products.
+Software Engineer specialized in building complete ecosystems: from scalable cross-platform applications 
+with **Flutter** to robust backend architectures and autonomous **Artificial Intelligence** agents.
 
-> “Building fast, scalable and beautiful cross-platform experiences.”
+> *"Building the future of startups through AI-powered solutions and flawless user experiences."*
 
 ---
 
 ## 🚀 About Me
 
-I am a **Senior Flutter Developer** specialized in building:
-
-- 📱 Cross-platform applications with Flutter  
-- 🎨 Modern and responsive UI  
-- ⚡ High-performance mobile and web apps  
-- 🤖 AI-enhanced user experiences  
-
-Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
+I am a **Senior Software Engineer** specialized in:
+- 📱 Cross-platform Fullstack development with **Flutter & Dart**.
+- 🧠 Integration of Generative AI, RAG systems, and Vector Databases.
+- ⚙️ Building Autonomous Agents with **LangGraph, LangChain, and Supabase Edge Functions**.
+- ☁️ Serverless Cloud Architecture (**Supabase, Firebase, Google Cloud**).
+Currently focused on leading the architecture of AI-driven products and scaling SaaS solutions.
 
 ---
 
@@ -31,11 +30,16 @@ Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
 - Responsive Design
 - Material 3
 - UI/UX implementation
+- Supabase / Firebase
+- Deno / TypeScript (Edge Functions)
+- PostgreSQL / Vector DBs
+- Clean Architecture & SOLID principles
 
 **AI & Integration**
-- OpenAI APIs
-- AI Agents integration
-- Intelligent UX flows
+- Gemini AI / OpenAI APIs
+- LangGraph / LangChain
+- Autonomous Agents Engineering (ReAct)
+- RAG workflows implementation
 
 **Tools**
 - Git & GitHub
@@ -66,6 +70,8 @@ Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
   </a>
 </p>
 
+- 🏢 **SocialTwinX:** Mobile application successfully published on the Apple App Store.
+- 💼 **Factuveri:** B2B SaaS web platform for business and billing management.
 - 🥇 Active participant in DEV Community challenges 
 - 🎮 Game web platform: http://juegos.marialijideveloper.com/  
 - 🌐 **Portfolio:** [marialijideveloper.com](https://www.marialijideveloper.com)
@@ -81,10 +87,10 @@ Currently focused on **Frontend architecture, Flutter Web, and AI integration**.
 ---
 
 ## 🌐 Connect With Me
-
+- ✈️ Telegram: [@lilidev23](https://t.me/lilidev23)
 - 🌐 **Portfolio:** [marialijideveloper.com](https://www.marialijideveloper.com)
 - 💼 LinkedIn: https://www.linkedin.com/in/marialilianajimenezm-ia-apps-flutter/?trk=public-profile-join-page  
-- 📧 Email: liliana.flutter@gmail.com
+- 📧 Email: marialiji@gmail.com
 
 ---
 
