@@ -1,4 +1,4 @@
-# María Liliana Jiménez M — Frontend Flutter Developer
+# María Liliana Jiménez M — AI & Fullstack  Flutter Developer
 
 Frontend Engineer focused on **Flutter**, modern UI, and AI-powered products.
 
