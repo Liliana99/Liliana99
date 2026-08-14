@@ -74,7 +74,7 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 - 💼 **Factuveri:** B2B SaaS web platform for business and billing management.
 - 🥇 Active participant in DEV Community challenges 
 - 🎮 Game web platform: http://juegos.marialijideveloper.com/  
-- 🌐 **Portfolio:** [marialijideveloper.com](https://www.marialijideveloper.com)
+- 🌐 **Portfolio:** [marialijideveloper-web.web.app/en](https://marialijideveloper-web.web.app/en)
 - 🚀 Focused on high-performance Flutter and frontend experiences
 
 ## 🔭 What I'm Working On
