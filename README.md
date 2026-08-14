@@ -73,7 +73,6 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 - 🏢 **SocialTwinX:** Mobile application successfully published on the Apple App Store.
 - 💼 **Factuveri:** B2B SaaS web platform for business and billing management.
 - 🥇 Active participant in DEV Community challenges 
-- 🎮 Game web platform: http://juegos.marialijideveloper.com/  
 - 🌐 **Portfolio:** [marialijideveloper-web.web.app/en](https://marialijideveloper-web.web.app/en)
 - 🚀 Focused on high-performance Flutter and frontend experiences
 
