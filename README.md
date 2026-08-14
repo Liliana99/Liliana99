@@ -88,8 +88,8 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 
 ## 🌐 Connect With Me
 - ✈️ Telegram: [@lilidev23](https://t.me/lilidev23)
-- 🌐 **Portfolio:** [marialijideveloper.com](https://www.marialijideveloper.com)
-- 💼 LinkedIn: https://www.linkedin.com/in/marialilianajimenezm-ia-apps-flutter/?trk=public-profile-join-page  
+- 🌐 **Portfolio:** [marialijideveloper-web.web.app/en](https://marialijideveloper-web.web.app/en)
+- 💼 LinkedIn: https://www.linkedin.com/in/marialilianajimenezm-ia-rag-apps/ 
 - 📧 Email: marialiji@gmail.com
 
 ---
