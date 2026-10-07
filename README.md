@@ -69,6 +69,8 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 
 > **[🚀 Probar Visualizador Interactivo en Vivo](https://liliana99.github.io/agentic-pipeline-visualizer/)** | **[📂 Ver Código del Repositorio](https://github.com/Liliana99/agentic-pipeline-visualizer)**
 
+
+
 * **Orquestación Basada en Estados:** Arquitectura de Máquina de Estados Finita (FSM) con LangGraph para ingesta asíncrona, enrutamiento dinámico y bucles de autocorrección (self-correction loops).
 * **Inferencia Local a Coste Cero:** Servida con Ollama en GPU local (`llama3.2` + `minicpm-v`) con pesos en SSD externo para extraer datos estructurados a escala sin facturas de APIs propietarias.
 * **Guardrails Deterministas (Pydantic):** Cero alucinaciones en base de datos; auditoría de contratos de esquema antes de persistir.
