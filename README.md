@@ -67,10 +67,16 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 [![Inference](https://img.shields.io/badge/Local_Serving-Ollama_(Metal_GPU)-purple?style=for-the-badge)](https://github.com/Liliana99/agentic-pipeline-visualizer)
 [![Persistence](https://img.shields.io/badge/Idempotent_Sink-Supabase-emerald?style=for-the-badge)](https://github.com/Liliana99/agentic-pipeline-visualizer)
 
-> **[🚀 Probar Visualizador Interactivo en Vivo](https://liliana99.github.io/agentic-pipeline-visualizer/)** | **[📂 Ver Código del Repositorio](https://github.com/Liliana99/agentic-pipeline-visualizer)**
+> **[🚀 Explore Interactive Live Demo](https://liliana99.github.io/agentic-pipeline-visualizer/)** | **[📂 View Repository Code](https://github.com/Liliana99/agentic-pipeline-visualizer)**
 
+* **State-Driven Agentic Orchestration:** Finite State Machine (FSM) architecture engineered with LangGraph for asynchronous ingestion, dynamic routing, and self-correction reflection loops.
+* **Zero-Marginal-Cost Local Inference:** High-throughput local serving via Ollama on unified GPU (`llama3.2` + `minicpm-v`) with external NVMe offloading, extracting structured data at scale with $0 proprietary API overhead.
+* **Deterministic Guardrails (Pydantic):** Zero-hallucination persistence layer enforcing strict schema contracts and constraint verification before database mutations.
+* **Idempotent Event Sink:** Content fingerprinting for cross-session deduplication and ACID-compliant transactional commits into Supabase.
 
+* **Idempotent Event Sink:** Content fingerprinting for cross-session deduplication and ACID-compliant transactional commits into Supabase.
 
+---
 * **Orquestación Basada en Estados:** Arquitectura de Máquina de Estados Finita (FSM) con LangGraph para ingesta asíncrona, enrutamiento dinámico y bucles de autocorrección (self-correction loops).
 * **Inferencia Local a Coste Cero:** Servida con Ollama en GPU local (`llama3.2` + `minicpm-v`) con pesos en SSD externo para extraer datos estructurados a escala sin facturas de APIs propietarias.
 * **Guardrails Deterministas (Pydantic):** Cero alucinaciones en base de datos; auditoría de contratos de esquema antes de persistir.
