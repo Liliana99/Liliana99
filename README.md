@@ -60,6 +60,20 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 
 ## 🏆 Achievements & Projects
 
+### ⚡ Featured Agentic Architecture: Autonomous Pipeline Visualizer
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-cyan?style=for-the-badge&logo=react)](https://liliana99.github.io/agentic-pipeline-visualizer/)
+[![Framework](https://img.shields.io/badge/LangGraph-State_Machine-blue?style=for-the-badge)](https://github.com/Liliana99/agentic-pipeline-visualizer)
+[![Inference](https://img.shields.io/badge/Local_Serving-Ollama_(Metal_GPU)-purple?style=for-the-badge)](https://github.com/Liliana99/agentic-pipeline-visualizer)
+[![Persistence](https://img.shields.io/badge/Idempotent_Sink-Supabase-emerald?style=for-the-badge)](https://github.com/Liliana99/agentic-pipeline-visualizer)
+
+> **[🚀 Probar Visualizador Interactivo en Vivo](https://liliana99.github.io/agentic-pipeline-visualizer/)** | **[📂 Ver Código del Repositorio](https://github.com/Liliana99/agentic-pipeline-visualizer)**
+
+* **Orquestación Basada en Estados:** Arquitectura de Máquina de Estados Finita (FSM) con LangGraph para ingesta asíncrona, enrutamiento dinámico y bucles de autocorrección (self-correction loops).
+* **Inferencia Local a Coste Cero:** Servida con Ollama en GPU local (`llama3.2` + `minicpm-v`) con pesos en SSD externo para extraer datos estructurados a escala sin facturas de APIs propietarias.
+* **Guardrails Deterministas (Pydantic):** Cero alucinaciones en base de datos; auditoría de contratos de esquema antes de persistir.
+* **Persistencia Idempotente:** Control de unicidad por fingerprinting y transacciones verificadas en Supabase.
+
 <p align="left">
   <a href="https://dev.to/liliana99" target="_blank">
     <img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F280%2FWriting_Streak_Badges-05.png" width="140" alt="DEV Community Badge" />
