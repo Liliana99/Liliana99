@@ -10,7 +10,7 @@ with **Flutter** to robust backend architectures and autonomous **Artificial Int
 ## 🚀 About Me
 
 I am a **Senior Software Engineer** specialized in:
-- 📱 Cross-platform Fullstack development with **Flutter & Dart**.
+- 📱**Senior Software & AI Engineer | Agentic Systems (LangGraph) & RAG | End-to-End Product (Python & Flutter)**.
 - 🧠 Integration of Generative AI, RAG systems, and Vector Databases.
 - ⚙️ Building Autonomous Agents with **LangGraph, LangChain, and Supabase Edge Functions**.
 - ☁️ Serverless Cloud Architecture (**Supabase, Firebase, Google Cloud**).
@@ -38,16 +38,6 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 * **Inferencia Local a Coste Cero:** Servida con Ollama en GPU local (`llama3.2` + `minicpm-v`) con pesos en SSD externo para extraer datos estructurados a escala sin facturas de APIs propietarias.
 * **Guardrails Deterministas (Pydantic):** Cero alucinaciones en base de datos; auditoría de contratos de esquema antes de persistir.
 * **Persistencia Idempotente:** Control de unicidad por fingerprinting y transacciones verificadas en Supabase.
-
-<p align="left">
-  <a href="https://dev.to/liliana99" target="_blank">
-    <img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F280%2FWriting_Streak_Badges-05.png" width="140" alt="DEV Community Badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dev.to/liliana99" target="_blank">
-    <img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F75%2FVersion2-05.png" width="140" alt="DEV Community Badge" />
-  </a>
-</p>
 
 ## 🧠 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -96,6 +86,15 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 - 🥇 Active participant in DEV Community challenges 
 - 🌐 **Portfolio:** [marialijideveloper-web.web.app/en](https://marialijideveloper-web.web.app/en)
 - 🚀 Focused on high-performance Flutter and frontend experiences
+ <p align="left">
+  <a href="https://dev.to/liliana99" target="_blank">
+    <img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F280%2FWriting_Streak_Badges-05.png" width="140" alt="DEV Community Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/liliana99" target="_blank">
+    <img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F75%2FVersion2-05.png" width="140" alt="DEV Community Badge" />
+  </a>
+</p>
 
 ## 🔭 What I'm Working On
 
