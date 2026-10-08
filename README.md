@@ -1,4 +1,4 @@
-# María Liliana Jiménez M — AI & Fullstack  Flutter Developer
+# María Liliana Jiménez M
 
 Software Engineer specialized in building complete ecosystems: from scalable cross-platform applications 
 with **Flutter** to robust backend architectures and autonomous **Artificial Intelligence** agents.
