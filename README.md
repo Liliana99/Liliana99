@@ -39,6 +39,27 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 * **Guardrails Deterministas (Pydantic):** Cero alucinaciones en base de datos; auditoría de contratos de esquema antes de persistir.
 * **Persistencia Idempotente:** Control de unicidad por fingerprinting y transacciones verificadas en Supabase.
 
+
+---
+
+## 🏆 Featured Project: PisoMatch — Agentic Real Estate Discovery
+
+> **Autonomous multi-agent property matching pipeline orchestrated with LangGraph, deterministic validation, and hybrid retrieval.**
+
+[![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-1C3C3C)](#)
+[![Python](https://img.shields.io/badge/Backend-Python%203.11+-3776AB?logo=python&logoColor=white)](#)
+[![Pydantic](https://img.shields.io/badge/Validation-Pydantic%20v2-red)](#)
+[![PostgreSQL](https://img.shields.io/badge/Storage-PostgreSQL%20%2F%20pgvector-4169E1?logo=postgresql&logoColor=white)](#)
+
+[ 🚀 Live Demo ](https://tu-demo) · [ 📂 View Repository ](https://github.com/tu-usuario/pisomatch)
+
+* **Graph-Based Agent Orchestration:** Arquitectura de grafos de estado cíclicos con LangGraph (`StateGraph`), permitiendo enrutamiento condicional, memoria de sesión y bucles de autocorrección.
+* **Hybrid Retrieval & Vector Search:** Pipeline RAG con embeddings e indexación en PostgreSQL (`pgvector`), aplicando prefiltrado determinista de metadatos para eliminar alucinaciones.
+* **Deterministic Guardrails:** Validación estricta de esquemas mediante Pydantic v2 en cada nodo del flujo antes de persistir datos o invocar servicios externos.
+* **Human-in-the-Loop & Resiliencia:** Puntos de control para validación manual y políticas de reintento estructuradas ante fallos.
+
+---
+
 ## 🧠 Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](#)
