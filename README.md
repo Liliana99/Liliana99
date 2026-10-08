@@ -40,34 +40,29 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 * **Persistencia Idempotente:** Control de unicidad por fingerprinting y transacciones verificadas en Supabase.
 
 ## 🧠 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Frontend](https://img.shields.io/badge/Frontend-Expert-blue?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Frontend**
-- Flutter
-- Dart
-- Responsive Design
-- Material 3
-- UI/UX implementation
-- Supabase / Firebase
-- Deno / TypeScript (Edge Functions)
-- PostgreSQL / Vector DBs
-- Clean Architecture & SOLID principles
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](#)
+[![LangGraph](https://img.shields.io/badge/Agentic-LangGraph-1C3C3C)](#)
+[![Flutter](https://img.shields.io/badge/Client-Flutter-02569B?logo=flutter&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL%20%2F%20pgvector-4169E1?logo=postgresql&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white)](#)
 
-**AI & Integration**
-- Gemini AI / OpenAI APIs
-- LangGraph / LangChain
-- Autonomous Agents Engineering (ReAct)
-- RAG workflows implementation
+#### AI & Agentic Systems
+* **Frameworks & Orchestration:** LangGraph (StateGraph, cyclic workflows, checkpoints), LangChain, ReAct pattern
+* **RAG & Knowledge Retrieval:** Dense embeddings, semantic search, hybrid retrieval, hallucination mitigation
+* **Models & Integration:** OpenAI, Anthropic, Gemini APIs, local LLM serving
+* **Deterministic Guardrails:** Pydantic validation, structured JSON outputs, Human-in-the-Loop (HITL) checkpoints
 
-**Tools**
-- Git & GitHub
-- Firebase
-- REST APIs
-- Clean Architecture
+#### Backend, Data & Architecture
+* **Language & Core:** Python (asyncio, FastAPI, Pytest)
+* **Databases & Vector Storage:** PostgreSQL, pgvector, Supabase, Vector DBs
+* **Serverless & Edge:** Deno / TypeScript (Edge Functions), REST APIs, webhooks
+* **Engineering Standards:** Clean Architecture, SOLID principles, idempotent event handling
 
+#### Client & Cross-Platform (Mobile & Web)
+* **Core Framework:** Flutter & Dart (Production apps published on App Store)
+* **Architecture & State:** Clean Architecture, BLoC / Provider, responsive UI
+* **Design Systems:** Material 3, UI/UX implementation, cross-platform deployment
 ---
 
 ## 📊 GitHub Analytics
