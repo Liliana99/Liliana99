@@ -42,22 +42,22 @@ Currently focused on leading the architecture of AI-driven products and scaling 
 
 ---
 
-## 🏆 Featured Project: PisoMatch — Agentic Real Estate Discovery
+## 🏆 Featured Product: PisoMatch — Agentic Real Estate Discovery Platform
 
-> **Autonomous multi-agent property matching pipeline orchestrated with LangGraph, deterministic validation, and hybrid retrieval.**
+> **Live B2C/B2B platform orchestrating multi-agent property discovery, smart matching algorithms, and structured ingestion for real-world users.**
 
+[![Live Platform](https://img.shields.io/badge/Production-pisomatch.com-success?style=flat&logo=googlechrome&logoColor=white)](https://www.pisomatch.com/)
 [![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-1C3C3C)](#)
 [![Python](https://img.shields.io/badge/Backend-Python%203.11+-3776AB?logo=python&logoColor=white)](#)
 [![Pydantic](https://img.shields.io/badge/Validation-Pydantic%20v2-red)](#)
-[![PostgreSQL](https://img.shields.io/badge/Storage-PostgreSQL%20%2F%20pgvector-4169E1?logo=postgresql&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Database-PostgreSQL%20%2F%20pgvector-4169E1?logo=postgresql&logoColor=white)](#)
 
-[ 🚀 Live Demo ](https://tu-demo) · [ 📂 View Repository ](https://github.com/tu-usuario/pisomatch)
+[ 🌐 Visit pisomatch.com ](https://www.pisomatch.com/) · *(Core codebase is private / proprietary product)*
 
-* **Graph-Based Agent Orchestration:** Arquitectura de grafos de estado cíclicos con LangGraph (`StateGraph`), permitiendo enrutamiento condicional, memoria de sesión y bucles de autocorrección.
-* **Hybrid Retrieval & Vector Search:** Pipeline RAG con embeddings e indexación en PostgreSQL (`pgvector`), aplicando prefiltrado determinista de metadatos para eliminar alucinaciones.
-* **Deterministic Guardrails:** Validación estricta de esquemas mediante Pydantic v2 en cada nodo del flujo antes de persistir datos o invocar servicios externos.
-* **Human-in-the-Loop & Resiliencia:** Puntos de control para validación manual y políticas de reintento estructuradas ante fallos.
-
+* **Production Agentic Workflows:** Diseñado con grafos de estado cíclicos en **LangGraph** (`StateGraph`), permitiendo a los agentes razonar sobre preferencias complejas de los usuarios, coordinar búsquedas multi-etapa y ejecutar bucles de refinamiento y autocorrección.
+* **Hybrid RAG & Semantic Filtering:** Motor de emparejamiento que combina búsqueda vectorial densa (`pgvector` / embeddings) con prefiltrado determinista sobre PostgreSQL (restricciones de precio, zonas, perfil de convivencia) para garantizar recomendaciones precisas sin alucinaciones.
+* **Deterministic Schemas & Reliability:** Validación estricta con Pydantic v2 en cada nodo del grafo, asegurando consistencia de datos entre el modelo de lenguaje, la base de datos y la interfaz de usuario.
+* **Human-in-the-Loop & State Persistence:** Arquitectura tolerante a fallos con persistencia de sesiones y puntos de confirmación antes de desencadenar acciones críticas o notificaciones.
 ---
 
 ## 🧠 Tech Stack
