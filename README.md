@@ -1,10 +1,5 @@
 # María Liliana Jiménez M
-
-Software Engineer specialized in building complete ecosystems: from scalable cross-platform applications 
-with **Flutter** to robust backend architectures and autonomous **Artificial Intelligence** agents.
-
 > *"Building the future of startups through AI-powered solutions and flawless user experiences."*
-
 ---
 
 ## 🚀 About Me
